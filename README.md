@@ -17,3 +17,4 @@ Nesse repositório é apresentado os códigos utilizando no aprendizado e aperfe
  
 ```
 - Cada arquivo.js possui uma atividade.
+- O arquivo README.md fornece informações gerais sobre o projeto, incluindo instruções sobre como executar os desafios.
